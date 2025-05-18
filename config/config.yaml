@@ -6,5 +6,3 @@ symbol: "BTCUSDT"
 # 거래 수량 설정
 
 # 바이낸스 API 설정
-api_key: "niJsJYoxahGgU6QBubgPiPxiExPIxq3jfVHqv7qEcVKCZX4EZDkAEyrpGL8R5gig"
-api_secret: "1z5H8LFjDnY76yQEwoO8FYNeFGq7BQVOao1Auo7XJ4OGMKWRFuzvA8Vw422wPGNu"
