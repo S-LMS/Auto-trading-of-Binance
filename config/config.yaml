@@ -1,0 +1,10 @@
+# 설정 파일
+
+# 거래쌍 설정 (예: BTCUSDT는 비트코인-테더 거래쌍)
+symbol: "BTCUSDT"
+
+# 거래 수량 설정
+
+# 바이낸스 API 설정
+api_key: "niJsJYoxahGgU6QBubgPiPxiExPIxq3jfVHqv7qEcVKCZX4EZDkAEyrpGL8R5gig"
+api_secret: "1z5H8LFjDnY76yQEwoO8FYNeFGq7BQVOao1Auo7XJ4OGMKWRFuzvA8Vw422wPGNu"
